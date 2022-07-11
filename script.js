@@ -82,9 +82,9 @@ formulario.addEventListener("submit", (e) =>{
     console.log(usuarios)
 })
 
+
+/*
 const usuarioExitoso = document.getElementById("exito")
-
-
 function lenghtUsers(usuarios) {
     var length = usuarios.length;
     for (var i = 0; i < length; i++) {
@@ -103,6 +103,7 @@ if (longitud > 0) {
     </div>
     ` 
 }
+*/
 
 
 
